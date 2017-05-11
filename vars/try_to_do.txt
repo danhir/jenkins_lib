@@ -1,0 +1,3 @@
+A global variable for trying to execute a shell command with exception handling.
+Use:
+try_to_do("shell cmd")
